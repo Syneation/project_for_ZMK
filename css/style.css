@@ -86,41 +86,5 @@ video {
     width: 100%;
 }
 
-/* another devices */
-@media (max-width: 768px) {
-    .nav-img {
-        width: 130%;
-        margin-left: -500px;
-    }
 
-    video {
-        margin-top: 184px;
-        width: 100
-    }
-}
-
-@media (max-width: 425px) {
-    .nav-img {
-        width: 236%;
-        margin-left: -500px;
-    }
-
-    video {
-        margin-top: 184px;
-        width: 77%;
-    }
-}
-
-
-@media (max-width: 375px) {
-    .nav-img {
-        width: 237%;
-        margin-left: -381px;
-    }
-
-    video {
-        margin-top: 184px;
-        width: 77%;
-    }
-}
 
