@@ -70,73 +70,73 @@ header ul li a {
 }
 
 /* soldier 1 */
-.image-soldier_one {
+.image-mp_one {
     margin-left: 5px;
 }
 
-.info-about-soldier_one {
+.info-about-mp_one {
     margin-left: 25rem;
     font-size: 2em;
     margin-top: -7.5em;
 }
 
 /* soldier 2 */
-.image-soldier_two {
+.image-mp_two {
     margin-left: 5px;
     margin-bottom: 10em;
 }
 
-.info-about-soldier_two {
+.info-about-mp_two {
     margin-left: 25rem;
     font-size: 1.5em;
     margin-top: -9em;
 }
 
 /* soldier 3 */
-.image-soldier_three {
+.image-mp_three {
     margin-left: 5px;
     margin-bottom: 10em;
 }
 
-.info-about-soldier_three {
+.info-about-mp_three {
     margin-left: 25rem;
     font-size: 1.5em;
     margin-top: -9em;
 }
 
 /* soldier 4 */
-.image-soldier_four {
+.image-mp_four {
     margin-left: 5px;
     margin-bottom: 10em;
 }
 
-.info-about-soldier_four {
+.info-about-mp_four {
     margin-left: 25rem;
     font-size: 1.5em;
     margin-top: -9em;
 }
 
 /* soldier 5 */
-.image-soldier_five {
+.image-soldimp {
     margin-left: 5px;
     margin-top: 8em;
     margin-bottom: 10em;
 }
 
-.info-about-soldier_five {
+.info-about-mp_five {
     margin-left: 25rem;
     font-size: 1.5em;
-    margin-top: -9em;
+    margin-top: -6em;
 }
 
 /* soldier 6 */
-.image-soldier_six {
+.image-mp_six {
     margin-left: 5px;
     margin-top: 8em;
     margin-bottom: 10em;
 }
 
-.info-about-soldier_six {
+.info-about-mp_six {
     margin-left: 25rem;
     font-size: 1.5em;
     margin-top: -9em;
@@ -144,27 +144,52 @@ header ul li a {
 
 
 /* different devices */
-
-
-@media (min-width: 2017px) {
+@media (min-width: 2008px) {
     /*soldier 1 */
-    .info-about-soldier_one  {
+    .info-about-mp_one  {
         margin-left: 34rem;
     }
     /*soldier 2 */
-    .info-about-soldier_two  {
+    .info-about-mp_two  {
         margin-left: 34rem;
     }
     /*soldier 3 */
-    .info-about-soldier_three  {
+    .info-about-mp_three  {
         margin-left: 34rem;
     }
     /*soldier 4 */
-    .info-about-soldier_four  {
+    .info-about-mp_four  {
         margin-left: 34rem;
     }
     /*soldier 5 */
-    .info-about-soldier_five  {
+    .info-about-mp_five  {
+        margin-left: 20rem;
+    }
+    /*soldier 6 */
+    .info-about-mp_six  {
+        margin-left: 34rem;
+    }
+}
+
+@media (min-width: 2017px) {
+    /*soldier 1 */
+    .info-about-mp_one  {
+        margin-left: 34rem;
+    }
+    /*soldier 2 */
+    .info-about-mp_two  {
+        margin-left: 34rem;
+    }
+    /*soldier 3 */
+    .info-about-mp_three  {
+        margin-left: 34rem;
+    }
+    /*soldier 4 */
+    .info-about-mp_four  {
+        margin-left: 34rem;
+    }
+    /*soldier 5 */
+    .info-about-mp_five  {
         margin-left: 34rem;
     }
 }
@@ -180,63 +205,75 @@ header ul li a {
     }
 
     /* soldier 1 */
-    .image-soldier_one {
+    .image-mp_one {
         width: 105%;
         margin-top: -1em;
     }
 
-    .info-about-soldier_one {
+    .info-about-mp_one {
         margin-left: 16.5rem;
         font-size: 22.5px;
         margin-top: -8.5rem;
     }
 
     /* soldier 2 */
-    .image-soldier_two {
+    .image-mp_two {
         width: 105%;
-        margin-top: -1em;
+        margin-top: -3em;
     }
 
-    .info-about-soldier_two {
+    .info-about-mp_two {
         margin-left: 16rem;
         font-size: 21px;
         margin-top: -8.5rem;
     }
 
     /* soldier 3 */
-    .image-soldier_three {
+    .image-mp_three {
         width: 105%;
-        margin-top: -1em;
+        margin-top: -8em;
     }
 
-    .info-about-soldier_three {
+    .info-about-mp_three {
         margin-left: 16.5rem;
         font-size: 22.5px;
         margin-top: -8.5rem;
     }
 
     /* soldier 4 */
-    .image-soldier_four {
+    .image-mp_four {
         width: 105%;
-        margin-top: -1em;
+        margin-top: -7em;
     }
 
-    .info-about-soldier_four {
+    .info-about-mp_four {
         margin-left: 16.5rem;
         font-size: 22.5px;
         margin-top: -8.5rem;
     }
 
     /* soldier 5 */
-    .image-soldier_five {
+    .image-mp_five {
         width: 105%;
-        margin-top: -1em;
+        margin-top: -7em;
     }
 
-    .info-about-soldier_five {
+    .info-about-mp_five {
         margin-left: 16.5rem;
         font-size: 22.5px;
         margin-top: -8.5rem;
+    }
+
+    /* soldier 6 */
+    .image-mp_six {
+        width: 100%;
+        margin-top: 6em;
+    }
+
+    .info-about-mp_six {
+        margin-left: 14rem;
+        font-size: 15px;
+        margin-top: -6rem;  
     }
 }
 
@@ -251,77 +288,78 @@ header ul li a {
     }
 
     /* soldier 1 */
-    .image-soldier_one {
+    .image-mp_one {
         width: 100%;
         margin-top: -4em;
         margin-bottom: -4em;
     }
 
-    .info-about-soldier_one {
+    .info-about-mp_one {
         margin-left: 12.5rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 2 */
-    .image-soldier_two {
+    .image-mp_two {
         width: 100%;
         margin-top: -1em;
     }
 
-    .info-about-soldier_two {
+    .info-about-mp_two {
         margin-left: 12.5rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 3 */
-    .image-soldier_three {
+    .image-mp_three {
         width: 100%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_three {
+    .info-about-mp_three {
         margin-left: 12.5rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 4 */
-    .image-soldier_four {
+    .image-mp_four {
         width: 100%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_four {
+    .info-about-mp_four {
         margin-left: 12.5rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 5 */
-    .image-soldier_five {
+    .image-mp_five {
         width: 100%;
         margin-top: -7em;
     }
 
-    .info-about-soldier_five {
+    .info-about-mp_five {
         margin-left: 12.5rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 6 */
-    .image-soldier_six {
+    .image-mp_six {
         width: 100%;
-        margin-top: -7em;
+        margin-top: 1em;
     }
 
-    .info-about-soldier_six {
+    .info-about-mp_six {
         margin-left: 12.5rem;
         font-size: 15px;
         margin-top: -6rem;  
     }
+    
 }
 
 @media (max-width: 835px) {
@@ -335,73 +373,73 @@ header ul li a {
     }
 
     /* soldier 1 */
-    .image-soldier_one {
+    .image-mp_one {
         width: 100%;
         margin-top: -4em;
         margin-bottom: -4em;
     }
 
-    .info-about-soldier_one {
+    .info-about-mp_one {
         margin-left: 11rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 2 */
-    .image-soldier_two {
+    .image-mp_two {
         width: 100%;
         margin-top: -1em;
     }
 
-    .info-about-soldier_two {
+    .info-about-mp_two {
         margin-left: 11rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 3 */
-    .image-soldier_three {
+    .image-mp_three {
         width: 100%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_three {
+    .info-about-mp_three {
         margin-left: 11rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 4 */
-    .image-soldier_four {
+    .image-mp_four {
         width: 100%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_four {
+    .info-about-mp_four {
         margin-left: 11rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 5 */
-    .image-soldier_five {
+    .image-mp_five {
         width: 100%;
         margin-top: -7em;
     }
 
-    .info-about-soldier_five {
+    .info-about-mp_five {
         margin-left: 11rem;
         font-size: 15px;
         margin-top: -6rem;
     }
 
     /* soldier 6 */
-    .image-soldier_six {
+    .image-mp_six {
         width: 100%;
-        margin-top: -7em;
+        margin-top: -1em;
     }
 
-    .info-about-soldier_six {
+    .info-about-mp_six {
         margin-left: 11rem;
         font-size: 15px;
         margin-top: -6rem;  
@@ -419,73 +457,73 @@ header ul li a {
     }
 
     /* soldier 1 */
-    .image-soldier_one {
+    .image-mp_one {
         width: 93%;
         margin-top: -4em;
         margin-bottom: -4em;
     }
 
-    .info-about-soldier_one {
+    .info-about-mp_one {
         margin-left: 6.2rem;
         font-size: 10px;
         margin-top: -3.5rem;
     }
 
     /* soldier 2 */
-    .image-soldier_two {
+    .image-mp_two {
         width: 93%;
         margin-top: -1em;
     }
 
-    .info-about-soldier_two {
+    .info-about-mp_two {
         margin-left: 6.2rem;
         font-size: 10px;
         margin-top: -3.5rem;
     }
 
     /* soldier 3 */
-    .image-soldier_three {
+    .image-mp_three {
         width: 93%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_three {
+    .info-about-mp_three {
         margin-left: 6.2rem;
         font-size: 10px;
         margin-top: -3.5rem;
     }
 
     /* soldier 4 */
-    .image-soldier_four {
+    .image-mp_four {
         width: 93%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_four {
+    .info-about-mp_four {
         margin-left: 6.2rem;
         font-size: 10px;
         margin-top: -3.5rem;
     }
 
     /* soldier 5 */
-    .image-soldier_five {
+    .image-mp_five {
         width: 93%;
         margin-top: -7em;
     }
 
-    .info-about-soldier_five {
+    .info-about-mp_five {
         margin-left: 6.2rem;
         font-size: 10px;
         margin-top: -3.5rem;
     }
 
     /* soldier 6 */
-    .image-soldier_six {
+    .image-mp_six {
         width: 93%;
-        margin-top: -7em;
+        margin-top: -2em;
     }
 
-    .info-about-soldier_six {
+    .info-about-mp_six {
         margin-left: 6.2rem;
         font-size: 10px;
         margin-top: -3.5rem;
@@ -505,73 +543,73 @@ header ul li a {
     }
 
     /* soldier 1 */
-    .image-soldier_one {
+    .image-mp_one {
         width: 126%;
         margin-top: -4em;
         margin-bottom: -4em;
     }
 
-    .info-about-soldier_one {
+    .info-about-mp_one {
         margin-left: 7.2rem;
         font-size: 8px;
         margin-top: -3rem;
     }
 
     /* soldier 2 */
-    .image-soldier_two {
+    .image-mp_two {
         width: 126%;
         margin-top: -1em;
     }
 
-    .info-about-soldier_two {
+    .info-about-mp_two {
         margin-left: 7.2rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 3 */
-    .image-soldier_three {
+    .image-mp_three {
         width: 126%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_three {
+    .info-about-mp_three {
         margin-left: 7.2rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 4 */
-    .image-soldier_four {
+    .image-mp_four {
         width: 126%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_four {
+    .info-about-mp_four {
         margin-left: 7.2rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 5 */
-    .image-soldier_five {
+    .image-mp_five {
         width: 126%;
         margin-top: -7em;
     }
 
-    .info-about-soldier_five {
+    .info-about-mp_five {
         margin-left: 7.2rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 6 */
-    .image-soldier_six {
+    .image-mp_six {
         width: 126%;
-        margin-top: -7em;
+        margin-top: -2em;
     }
 
-    .info-about-soldier_six {
+    .info-about-mp_six {
         margin-left: 7.2rem;
         font-size: 7px;
         margin-top: -3rem;
@@ -589,73 +627,73 @@ header ul li a {
     }
 
     /* soldier 1 */
-    .image-soldier_one {
+    .image-mp_one {
         width: 126%;
         margin-top: -4em;
         margin-bottom: -4em;
     }
 
-    .info-about-soldier_one {
+    .info-about-mp_one {
         margin-left: 6.5rem;
         font-size: 8px;
         margin-top: -3rem;
     }
 
     /* soldier 2 */
-    .image-soldier_two {
+    .image-mp_two {
         width: 126%;
         margin-top: -1em;
     }
 
-    .info-about-soldier_two {
+    .info-about-mp_two {
         margin-left: 6.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 3 */
-    .image-soldier_three {
+    .image-mp_three {
         width: 126%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_three {
+    .info-about-mp_three {
         margin-left: 6.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 4 */
-    .image-soldier_four {
+    .image-mp_four {
         width: 126%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_four {
+    .info-about-mp_four {
         margin-left: 6.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 5 */
-    .image-soldier_five {
+    .image-mp_five {
         width: 126%;
         margin-top: -7em;
     }
 
-    .info-about-soldier_five {
+    .info-about-mp_five {
         margin-left: 6.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 6 */
-    .image-soldier_six {
+    .image-mp_six {
         width: 126%;
-        margin-top: -7em;
+        margin-top: -2em;
     }
 
-    .info-about-soldier_six {
+    .info-about-mp_six {
         margin-left: 6.5rem;
         font-size: 7px;
         margin-top: -3rem;
@@ -673,73 +711,73 @@ header ul li a {
     }
 
     /* soldier 1 */
-    .image-soldier_one {
+    .image-mp_one {
         width: 126%;
         margin-top: -4em;
         margin-bottom: -4em;
     }
 
-    .info-about-soldier_one {
+    .info-about-mp_one {
         margin-left: 5.5rem;
         font-size: 8px;
         margin-top: -3rem;
     }
 
     /* soldier 2 */
-    .image-soldier_two {
+    .image-mp_two {
         width: 126%;
         margin-top: -1em;
     }
 
-    .info-about-soldier_two {
+    .info-about-mp_two {
         margin-left: 5.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 3 */
-    .image-soldier_three {
+    .image-mp_three {
         width: 126%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_three {
+    .info-about-mp_three {
         margin-left: 5.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 4 */
-    .image-soldier_four {
+    .image-mp_four {
         width: 126%;
         margin-top: -8em;
     }
 
-    .info-about-soldier_four {
+    .info-about-mp_four {
         margin-left: 5.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 5 */
-    .image-soldier_five {
+    .image-mp_five {
         width: 126%;
-        margin-top: -7em;
+        margin-top: -8em;
     }
 
-    .info-about-soldier_five {
+    .info-about-mp_five {
         margin-left: 5.5rem;
         font-size: 7px;
         margin-top: -3rem;
     }
 
     /* soldier 6 */
-    .image-soldier_six {
+    .image-mp_six {
         width: 126%;
-        margin-top: -7em;
+        margin-top: -2em;
     }
 
-    .info-about-soldier_six {
+    .info-about-mp_six {
         margin-left: 5.5rem;
         font-size: 7px;
         margin-top: -3rem;

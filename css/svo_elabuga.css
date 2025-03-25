@@ -71,18 +71,19 @@ header ul li a {
 
 /* soldier 1 */
 .image-soldier_one {
-    margin-left: 5px;
+    margin-left: 4rem;
 }
 
 .info-about-soldier_one {
     margin-left: 25rem;
     font-size: 2em;
-    margin-top: -6em;
+    margin-top: -7em;
 }
 
 /* soldier 2 */
 .image-soldier_two {
-    margin-left: 5px;
+    margin-left: 7px;
+    margin-top: 7rem;
 }
 
 .info-about-soldier_two {
@@ -94,41 +95,16 @@ header ul li a {
 /* soldier 3 */
 .image-soldier_three {
     margin-left: 5px;
+    margin-top: 9rem;
 }
 
 .info-about-soldier_three {
     margin-left: 25rem;
     font-size: 1.5em;
-    margin-top: -9em;
-}
-
-/* soldier 4 */
-.image-soldier_four {
-    margin-left: 5px;
-}
-
-.info-about-soldier_four {
-    margin-left: 25rem;
-    font-size: 1.5em;
-    margin-top: -9em;
-}
-
-/* soldier 5 */
-.image-soldier_five {
-    margin-left: 5px;
-    margin-top: 8em;
-}
-
-.info-about-soldier_five {
-    margin-left: 25rem;
-    font-size: 1.5em;
-    margin-top: -9em;
-}
-
+    margin-top: -7em;
+}   
 
 /* different devices */
-
-
 @media (min-width: 2017px) {
     /*soldier 1 */
     .info-about-soldier_one  {

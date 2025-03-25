@@ -76,8 +76,8 @@ header ul li a {
 
 .info-about-soldier_one {
     margin-left: 25rem;
-    font-size: 2em;
-    margin-top: -7.5em;
+    font-size: 1.4em;
+    margin-top: -9em;
 }
 
 /* soldier 2 */
@@ -680,9 +680,9 @@ header ul li a {
     }
 
     .info-about-soldier_one {
-        margin-left: 5.5rem;
-        font-size: 8px;
-        margin-top: -3rem;
+        margin-left: 25rem;
+        font-size: 1.6em;
+        margin-top: -8em;
     }
 
     /* soldier 2 */
@@ -716,30 +716,6 @@ header ul li a {
     }
 
     .info-about-soldier_four {
-        margin-left: 5.5rem;
-        font-size: 7px;
-        margin-top: -3rem;
-    }
-
-    /* soldier 5 */
-    .image-soldier_five {
-        width: 126%;
-        margin-top: -7em;
-    }
-
-    .info-about-soldier_five {
-        margin-left: 5.5rem;
-        font-size: 7px;
-        margin-top: -3rem;
-    }
-
-    /* soldier 6 */
-    .image-soldier_six {
-        width: 126%;
-        margin-top: -7em;
-    }
-
-    .info-about-soldier_six {
         margin-left: 5.5rem;
         font-size: 7px;
         margin-top: -3rem;

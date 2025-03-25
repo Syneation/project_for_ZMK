@@ -12,6 +12,10 @@ html,body {
     text-rendering: optimizeLegibility;
 }
 
+.nav-item {
+    font-size: 25px;
+}
+
 main {
     position: absolute;
 }
@@ -41,7 +45,7 @@ header a {
 header ul li a {
     display: block;
     color:white;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 2px;
     font-weight: 600;
@@ -53,7 +57,6 @@ header ul li a {
     position: absolute;
     margin-left: -700px;
 }
-
 
 
 /* main */
@@ -86,5 +89,40 @@ video {
     width: 100%;
 }
 
+/* another devices */
+@media (max-width: 768px) {
+    .nav-img {
+        width: 130%;
+        margin-left: -500px;
+    }
+
+    video {
+        margin-top: 184px;
+        width: 100
+    }
+}
+
+@media (max-width: 425px) {
+    .nav-img {
+        width: 236%;
+        margin-left: -500px;
+    }
+
+    video {
+        margin-top: 184px;
+        width: 77%;
+    }
+}
 
 
+@media (max-width: 375px) {
+    .nav-img {
+        width: 237%;
+        margin-left: -381px;
+    }
+
+    video {
+        margin-top: 184px;
+        width: 77%;
+    }
+}
