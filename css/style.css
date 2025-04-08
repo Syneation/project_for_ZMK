@@ -98,7 +98,20 @@ video {
 
     video {
         margin-top: 184px;
-        width: 100
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .nav-img {
+        width: 236%;
+        margin-left: -693px;
+        margin-top: 4rem;
+    }
+
+    video {
+        margin-top: 184px;
+        width: 83%;
     }
 }
 
@@ -121,8 +134,8 @@ video {
         margin-left: -381px;
     }
 
-    video {
-        margin-top: 184px;
-        width: 77%;
-    }
+        video {
+            margin-top: 184px;
+            width: 100%;
+        }
 }
